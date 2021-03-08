@@ -8,9 +8,9 @@ import (
 	"context"
 	"fmt"
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/bippio/go-impala/services/beeswax"
-	"github.com/bippio/go-impala/services/status"
+	"github.com/hizhuzhan/go-impala/services/beeswax"
 	"github.com/hizhuzhan/go-impala/services/cli_service"
+	"github.com/hizhuzhan/go-impala/services/status"
 	"reflect"
 )
 
